@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi 👋, I'm Meriem Guesmi
 
-<!--
-**mariemgs/mariemgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Software Engineer | AI & DevOps Enthusiast
 
-Here are some ideas to get you started:
+🎓 Software Engineering graduate from the **Higher Institute of Computer Science (ISI), University of Tunis El Manar**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about **Software Development, Artificial Intelligence, DevOps, and Cloud Technologies**.
+
+🚀 I enjoy building full-stack applications, exploring AI-powered solutions, and automating software delivery through CI/CD pipelines.
+
+## 🎓 Education
+
+- 📌 **Higher Institute of Computer Science (ISI)**
+
+  📅 2023 – 2026
+
+  🔹 Engineering Degree in Software Development
+
+- 📌 **Faculty of Sciences of Tunis (FST)**
+
+  📅 2020 – 2023
+
+  🔹 Bachelor's Degree in Computer Science
+
+## 💻 Languages and Tools
+
+**Programming Languages**
+
+![Languages](https://skillicons.dev/icons?i=java,python,js,ts,bash)
+
+**Frontend Development**
+
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap)
+
+**Backend Development**
+
+![Backend](https://skillicons.dev/icons?i=spring,fastapi,flask,nodejs)
+
+**Databases**
+
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb)
+
+**DevOps & Cloud**
+
+![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,azure,aws,terraform,linux,git)
+
+**Testing & Monitoring**
+
+![Testing](https://skillicons.dev/icons?i=pytest,playwright,grafana,prometheus)
+
+## 🚀 Projects & Experience
+
+- 🤖 **AI-Powered DevSecOps Platform** — Developed a multi-agent AI platform for automated code review, security analysis, CI/CD automation, and monitoring.
+
+- 📄 **Arabic Document Intelligence** — Built an AI-powered application integrating Arabic OCR, semantic search, and document-based chat.
+
+- 🌐 **Full-Stack Development** — Developed web applications using React, Spring Boot, FastAPI, and PostgreSQL, including REST APIs, authentication, and role-based access control.
+
+## 🏅 Certifications
+
+- ☁️ Microsoft Azure AI Fundamentals
+- ☁️ AWS Knowledge: Cloud Essentials
+
+## 🌍 Languages
+
+Arabic (Native) · English (Fluent) · French (Fluent) · Spanish (Conversational)
+
+## 🤝 Connect with Me
+
+📧 **Email:** [meriemguesmi001@gmail.com](mailto:meriemguesmi001@gmail.com)
+
+💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+
+---
+
+✨ *Always learning, building, and exploring new technologies.*
