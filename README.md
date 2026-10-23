@@ -1,6 +1,6 @@
 # Hi 👋, I'm Meriem Guesmi
 
-### 👩‍💻 Software Engineer | AI & DevOps Enthusiast
+### 👩‍💻 Software Engineer | DevOps & AI Enthusiast
 
 🎓 Software Engineering graduate passionate about **Software Development, Artificial Intelligence, DevOps & Cloud Technologies**.
 
