@@ -2,58 +2,24 @@
 
 ### 👩‍💻 Software Engineer | AI & DevOps Enthusiast
 
-🎓 Software Engineering graduate from the **Higher Institute of Computer Science (ISI), University of Tunis El Manar**.
+🎓 Software Engineering graduate passionate about **Software Development, Artificial Intelligence, DevOps & Cloud Technologies**.
 
-💡 Passionate about **Software Development, Artificial Intelligence, DevOps, and Cloud Technologies**.
+### 🎓 Education
 
-🚀 I enjoy building full-stack applications, exploring AI-powered solutions, and automating software delivery through CI/CD pipelines.
+- 📌 **Higher Institute of Computer Science (ISI) — University of Tunis El Manar**
+  
+  Engineering Degree in Software Development (2023 – 2026)
 
-## 🎓 Education
+- 📌 **Faculty of Sciences of Tunis (FST) — University of Tunis El Manar**
+  
+  Bachelor's Degree in Computer Science (2020 – 2023)
 
-- 📌 **Higher Institute of Computer Science (ISI)**
+### 🛠️ Languages and Tools
 
-  📅 2023 – 2026
+![Tech Stack](https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,html,css,spring,fastapi,flask,nodejs,postgres,mysql,mongodb,docker,kubernetes,githubactions,azure,aws,terraform,linux,git,pytest,playwright,grafana,prometheus&perline=10)
 
-  🔹 Engineering Degree in Software Development
+### 🤝 Connect with Me
 
-- 📌 **Faculty of Sciences of Tunis (FST)**
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/meriem-guesmi-a73204227)
 
-  📅 2020 – 2023
-
-  🔹 Bachelor's Degree in Computer Science
-
-## 💻 Languages and Tools
-
-**Programming Languages**
-
-![Languages](https://skillicons.dev/icons?i=java,python,js,ts,bash)
-
-**Frontend Development**
-
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap)
-
-**Backend Development**
-
-![Backend](https://skillicons.dev/icons?i=spring,fastapi,flask,nodejs)
-
-**Databases**
-
-![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb)
-
-**DevOps & Cloud**
-
-![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,githubactions,azure,aws,terraform,linux,git)
-
-**Testing & Monitoring**
-
-![Testing](https://skillicons.dev/icons?i=pytest,playwright,grafana,prometheus)
-
-## 🤝 Connect with Me
-
-📧 **Email:** [meriemguesmi001@gmail.com](mailto:meriemguesmi001@gmail.com)
-
-💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
-
----
-
-✨ *Always learning, building, and exploring new technologies.*
+✨ Always learning, building, and exploring new technologies.
