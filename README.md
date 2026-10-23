@@ -48,23 +48,6 @@
 
 ![Testing](https://skillicons.dev/icons?i=pytest,playwright,grafana,prometheus)
 
-## 🚀 Projects & Experience
-
-- 🤖 **AI-Powered DevSecOps Platform** — Developed a multi-agent AI platform for automated code review, security analysis, CI/CD automation, and monitoring.
-
-- 📄 **Arabic Document Intelligence** — Built an AI-powered application integrating Arabic OCR, semantic search, and document-based chat.
-
-- 🌐 **Full-Stack Development** — Developed web applications using React, Spring Boot, FastAPI, and PostgreSQL, including REST APIs, authentication, and role-based access control.
-
-## 🏅 Certifications
-
-- ☁️ Microsoft Azure AI Fundamentals
-- ☁️ AWS Knowledge: Cloud Essentials
-
-## 🌍 Languages
-
-Arabic (Native) · English (Fluent) · French (Fluent) · Spanish (Conversational)
-
 ## 🤝 Connect with Me
 
 📧 **Email:** [meriemguesmi001@gmail.com](mailto:meriemguesmi001@gmail.com)
